@@ -1,9 +1,10 @@
-MOVE UP! V3 — Grand carnet EPS
+MOVE UP! V4 — Collection premium.
+Déposer TOUS les fichiers et le dossier assets à la racine du dépôt GitHub Pages.
+Conserve les missions V1, six mini-jeux V2 et fiches carnet V3.
+La collection contient 16 cartes SVG individuelles, quatre badges illustrés, quatre guides sportifs. Les anciennes progressions locales sont conservées.
+Les illustrations sont vectorielles SVG haute résolution : sans flou à l’agrandissement.
 
-Déposez tous les fichiers ET le dossier assets à la racine du dépôt GitHub Pages. Remplacez les fichiers existants. Conservez les noms.
+VERSION PNG : tous les visuels anciennement SVG sont remplacés par des PNG haute résolution. Aucun fichier SVG inclus.
 
-Nouveautés : 12 fiches illustrées originales, recherche et filtres par champ, critères à cocher, erreurs et conseils, rôles sociaux, autoévaluation, notes libres, impression PDF.
 
-Données : sauvegarde uniquement dans le navigateur utilisé (localStorage). Ne remplace pas une évaluation officielle. Les fonctionnalités V2 sont conservées.
-
-Sur GitHub Pages, patienter le temps de la publication puis actualiser la page (éventuellement dans un onglet privé si l’ancien cache apparaît).
+V4 HD COLLECTION: 4 personnages PNG transparents, 4 badges PNG, 12 cartes sportives HD (les 4 autres cartes existantes restent présentes). Aucun SVG. Remplacer tous les fichiers du depot a la racine.
