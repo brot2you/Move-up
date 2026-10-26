@@ -1,7 +1,9 @@
-MOVE UP! V2 - Gameplay enrichi
+MOVE UP! V3 — Grand carnet EPS
 
-Décompresser puis déposer à la racine du dépôt GitHub Pages (index.html, app.js, arcade.js, style.css, assets/).
-Conserve le design de la version V1.3 et les sauvegardes déjà présentes sur le navigateur.
-Six jeux : tactique (terrain), orientation (itinéraires), allure (problèmes), composition (séquencement), arbitrage (décisions), memory (paires). Chaque jeu propose trois situations progressives avec correction.
-Une étape réussie donne 30 XP, une fois seulement. L’enregistrement est local au navigateur utilisé.
-Les schémas sont simplifiés et les situations sont pédagogiques, pas des évaluations officielles.
+Déposez tous les fichiers ET le dossier assets à la racine du dépôt GitHub Pages. Remplacez les fichiers existants. Conservez les noms.
+
+Nouveautés : 12 fiches illustrées originales, recherche et filtres par champ, critères à cocher, erreurs et conseils, rôles sociaux, autoévaluation, notes libres, impression PDF.
+
+Données : sauvegarde uniquement dans le navigateur utilisé (localStorage). Ne remplace pas une évaluation officielle. Les fonctionnalités V2 sont conservées.
+
+Sur GitHub Pages, patienter le temps de la publication puis actualiser la page (éventuellement dans un onglet privé si l’ancien cache apparaît).
