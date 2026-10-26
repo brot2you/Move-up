@@ -1,10 +1,1 @@
-MOVE UP! V4 — Collection premium.
-Déposer TOUS les fichiers et le dossier assets à la racine du dépôt GitHub Pages.
-Conserve les missions V1, six mini-jeux V2 et fiches carnet V3.
-La collection contient 16 cartes SVG individuelles, quatre badges illustrés, quatre guides sportifs. Les anciennes progressions locales sont conservées.
-Les illustrations sont vectorielles SVG haute résolution : sans flou à l’agrandissement.
-
-VERSION PNG : tous les visuels anciennement SVG sont remplacés par des PNG haute résolution. Aucun fichier SVG inclus.
-
-
-V4 HD COLLECTION: 4 personnages PNG transparents, 4 badges PNG, 12 cartes sportives HD (les 4 autres cartes existantes restent présentes). Aucun SVG. Remplacer tous les fichiers du depot a la racine.
+MOVE UP! - Edition finale V4.1\n\n1. Deposer le contenu de ce dossier a la racine du depot GitHub Pages.\n2. Remplacer les fichiers existants. Ne pas placer le dossier MOVE-UP-FINALE lui-meme dans le depot.\n3. La progression est conservee dans le navigateur via la meme cle de stockage.\n4. 16 cartes PNG HD, 4 badges, 4 personnages; missions, arcade et carnet preserves.\n5. Ne supprimez pas les fichiers de votre depot avant de verifier l application.\n
