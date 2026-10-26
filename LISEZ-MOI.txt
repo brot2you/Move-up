@@ -1,3 +1,7 @@
-MOVE UP! V1.3 - Accueil refait : images independantes, aucun bandeau en double, grille responsive.
-Deposer index.html, app.js, style.css et le dossier assets a la racine du depot GitHub en remplaçant les anciens fichiers.
-Rafraichir Safari apres publication.
+MOVE UP! V2 - Gameplay enrichi
+
+Décompresser puis déposer à la racine du dépôt GitHub Pages (index.html, app.js, arcade.js, style.css, assets/).
+Conserve le design de la version V1.3 et les sauvegardes déjà présentes sur le navigateur.
+Six jeux : tactique (terrain), orientation (itinéraires), allure (problèmes), composition (séquencement), arbitrage (décisions), memory (paires). Chaque jeu propose trois situations progressives avec correction.
+Une étape réussie donne 30 XP, une fois seulement. L’enregistrement est local au navigateur utilisé.
+Les schémas sont simplifiés et les situations sont pédagogiques, pas des évaluations officielles.
